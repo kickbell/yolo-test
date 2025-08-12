@@ -1,4 +1,2 @@
 # yolo-test
 
-
-# YOLO test
